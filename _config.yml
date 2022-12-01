@@ -11,11 +11,11 @@ title: 二进制的yzy
 # Description of the Site
 description: An inheritance of me
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: /assets/images/meta.jpg
 # Keywords of the Site
 site-keywords: me, THU, who
 # URL for the Image of custom Favicon
-favicon-url: /WhatATheme/assets/images/a.jpg
+favicon-url: /assets/images/a.jpg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
