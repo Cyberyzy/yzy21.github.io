@@ -11,11 +11,11 @@ title: 二进制的yzy
 # Description of the Site
 description: An inheritance of me
 # URL of Image of the Site
-site-image: /assets/images/meta.jpg
+site-image: https://github.com/Cyberyzy/yzy21.github.io/blob/main/assets/images/as.jpg
 # Keywords of the Site
 site-keywords: me, THU, who
 # URL for the Image of custom Favicon
-favicon-url: /assets/images/a.jpg
+favicon-url: https://github.com/Cyberyzy/yzy21.github.io/blob/main/assets/images/a.jpg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
@@ -24,10 +24,10 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # If you don't want to use any icon, you can leave them blank.
 email: Arzfall@outlook.com
 Zhihu_username: https://www.zhihu.com/people/yzyzzzy
-twitter_username: https://www.zhihu.com/people/yzyzzzy
+twitter_username: /
 instagram_username: /
 linkedin_username: /
-github_username: https://www.zhihu.com/people/yzyzzzy
+github_username: wadeYang
 youtube_channel_id: /
 reddit_username: /
 behance_username: /
