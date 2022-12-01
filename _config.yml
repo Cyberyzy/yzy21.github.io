@@ -7,7 +7,7 @@ url: ""
 baseurl:
 
 # Title of the Site
-title: yzy的桃花源
+title: 二进制的yzy
 # Description of the Site
 description: A inheritance of me
 # URL of Image of the Site
@@ -23,7 +23,7 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: Arzfall@outlook.com
-facebook_username: /
+Zhihu_username: 守拙
 twitter_username: /
 instagram_username: /
 linkedin_username: /
@@ -45,7 +45,7 @@ author-name: TheDevsLot
 # URL for the Image of the Author
 author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
+author-about: 八千里路云和月
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
